@@ -11,8 +11,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/113_1.jpg",
-      "src_2":"/products/113_2.jpg"
+      "src_1":require("./products/113_1.jpg"),
+      "src_2":require("./products/113_2.jpg")
     },
 
     {
@@ -26,8 +26,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/114_1.jpg",
-      "src_2":"/products/114_2.jpg"
+      "src_1":require("./products/114_1.jpg"),
+      "src_2":require("./products/114_2.jpg")
     },
 
     {
@@ -41,8 +41,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/115_1.jpg",
-      "src_2":"/products/115_2.jpg"
+      "src_1":require("./products/115_1.jpg"),
+      "src_2":require("./products/115_2.jpg")
     },
 
     {
@@ -56,8 +56,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/116_1.jpg",
-      "src_2":"/products/116_2.jpg"
+      "src_1":require("./products/116_1.jpg"),
+      "src_2":require("./products/116_2.jpg")
     },
 
     {
@@ -71,8 +71,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/112_1.jpg",
-      "src_2":"/products/112_2.jpg"
+      "src_1":require("./products/112_1.jpg"),
+      "src_2":require("./products/112_2.jpg")
     },
 
     {
@@ -86,8 +86,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/117_1.jpg",
-      "src_2":"/products/117_2.jpg"
+      "src_1":require("./products/117_1.jpg"),
+      "src_2":require("./products/117_2.jpg")
     },
 
     {
@@ -101,8 +101,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/101_1.jpg",
-      "src_2":"/products/101_2.jpg"
+      "src_1":require("./products/101_1.jpg"),
+      "src_2":require("./products/101_2.jpg")
     },
 
     {
@@ -116,8 +116,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/102_1.jpg",
-      "src_2":"/products/102_2.jpg"
+      "src_1":require("./products/102_1.jpg"),
+      "src_2":require("./products/102_2.jpg")
 
     },
 
@@ -132,8 +132,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/103_1.jpg",
-      "src_2":"/products/103_2.jpg"
+      "src_1":require("./products/103_1.jpg"),
+      "src_2":require("./products/103_2.jpg")
     },
 
     {
@@ -147,8 +147,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/104_1.jpg",
-      "src_2":"/products/104_2.jpg"
+      "src_1":require("./products/104_1.jpg"),
+      "src_2":require("./products/104_2.jpg")
     },
 
     {
@@ -162,8 +162,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "src_1":"/products/105_1.jpg",
-      "src_2":"/products/105_2.jpg"
+      "src_1":require("./products/105_1.jpg"),
+      "src_2":require("./products/105_2.jpg")
     },
 
     {
@@ -177,8 +177,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "src_1":"/products/106_1.jpg",
-      "src_2":"/products/106_2.jpg"
+      "src_1":require("./products/106_1.jpg"),
+      "src_2":require("./products/106_2.jpg")
     },
 
     {
@@ -192,8 +192,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/107_1.jpg",
-      "src_2":"/products/107_2.jpg"
+      "src_1":require("./products/107_1.jpg"),
+      "src_2":require("./products/107_2.jpg")
     },
 
     {
@@ -207,8 +207,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/108_1.jpg",
-      "src_2":"/products/108_2.jpg"
+      "src_1":require("./products/108_1.jpg"),
+      "src_2":require("./products/108_2.jpg")
     },
 
     {
@@ -222,8 +222,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "src_1":"/products/109_1.jpg",
-      "src_2":"/products/109_2.jpg"
+      "src_1":require("./products/109_1.jpg"),
+      "src_2":require("./products/109_2.jpg")
     },
 
     {
@@ -237,8 +237,8 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/110_1.jpg",
-      "src_2":"/products/110_2.jpg"
+      "src_1":require("./products/110_1.jpg"),
+      "src_2":require("./products/110_2.jpg")
     },
 
     {
@@ -253,8 +253,8 @@
 
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "src_1":"/products/111_1.jpg",
-      "src_2":"/products/111_2.jpg"
+      "src_1":require("./products/111_1.jpg"),
+      "src_2":require("./products/111_2.jpg")
     }
   ]
 
